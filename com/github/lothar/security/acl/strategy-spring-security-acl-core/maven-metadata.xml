@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.lothar.security.acl</groupId>
+  <artifactId>strategy-spring-security-acl-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.6.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181015110612</lastUpdated>
+  </versioning>
+</metadata>
