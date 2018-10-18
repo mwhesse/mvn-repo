@@ -3,10 +3,10 @@
   <groupId>com.github.lothar.security.acl</groupId>
   <artifactId>strategy-spring-security-acl-querydsl</artifactId>
   <versioning>
-    <release>1.6.0-mwhesse-RELEASE</release>
+    <release>1.6.1-mwhesse-RELEASE</release>
     <versions>
-      <version>1.6.0-mwhesse-RELEASE</version>
+      <version>1.6.1-mwhesse-RELEASE</version>
     </versions>
-    <lastUpdated>20181015111934</lastUpdated>
+    <lastUpdated>20181018114855</lastUpdated>
   </versioning>
 </metadata>
